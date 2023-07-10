@@ -1,0 +1,13 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: rgba(229, 84, 115, 0.10);
+
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.flower{
+    width: 500px;
+}
